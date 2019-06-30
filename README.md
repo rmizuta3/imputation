@@ -1,2 +1,2 @@
 # imputation
-多重代入法をIterativeImputerとfancyimputeを用いて補完した場合のlightgbmの性能比較実験
+IterativeImputerとfancyimputeを用いて多重代入法で欠損補完した場合のlightgbmの性能比較実験
